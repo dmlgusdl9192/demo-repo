@@ -1,3 +1,4 @@
 # Main header: Demo
 
-Some description.
+.md extension stands for Markdown file.
+Write description of the project here.
